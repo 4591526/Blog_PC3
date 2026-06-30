@@ -169,7 +169,7 @@ elif opciones == 'Gráficos':
 
         with col4:
             st.image(
-                "aisladas_base_datos.png",
+                "lengua_familia_GB.png",
                 width=800
             )
 
